@@ -1,1 +1,1 @@
-# vue-random-user-gen
+# Randome user generation app in Vue Js
