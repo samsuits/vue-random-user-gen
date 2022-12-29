@@ -1,1 +1,0 @@
-# vue-random-user-gen
